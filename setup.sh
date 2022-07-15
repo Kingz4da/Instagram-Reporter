@@ -68,7 +68,7 @@ echo " "
         echo -e "\e[1;34m Downloading Latest Files..."
         cd $HOME
         rm -rf InstaReport
-        git clone https://github.com/Crevils/InstaReport
+        git clone https://github.com/TeamDarkAnon/InstaReport
         cd InstaReport
         bash setup.sh
      
