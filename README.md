@@ -1,74 +1,78 @@
-# InstaReport
-This is a script which reports targeted instagram accounts and instagram videos in bulk.
-Version : 2.0.1
+# InstaReporter
+Este é um script que relata contas segmentadas do Instagram e vídeos do Instagram em massa. 
+<br>
+Versão: 2.0.1
 
 [![forthebadge Made-With-Python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-### Features
-This is a script which reports targeted instagram account or an instagram video. 
-Works On
-<a href="https://t.me/TeamDarkAnon"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
-<a href="https://t.me/TeamDarkAnon"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-<a href="https://t.me/TeamDarkAnon"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
+### Recursos
+Este é um script que reporta uma conta do Instagram direcionada ou um vídeo do Instagram. 
+Funcionando
+<a href="https://discord.gg/ak6zRwMPH6"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"></a>
+<a href="https://discord.gg/ak6zRwMPH6"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://discord.gg/ak6zRwMPH6"><img src="https://img.shields.io/badge/-kali%20linux-lightgrey"></a>
 ```
-[+] Powerful ban tool 
-[+] Uses proxy + username
-[+] Mass report on instagram account
-[+] Mass report on instagram video
-[+] Gatthering information about instagram account (Comming soon)
+[+] Poderosa ferramenta de banimento
+[+] Usa proxy + nome de usuário
+[+] Reportagem em massa na conta do instagram
+[+] Reportagem em massa no vídeo do instagram
+[+] Coletando informações sobre a conta do Instagram (em breve)
 
 ```
 
 
 
-<a href="https://t.me/ItzMe_Anon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.gg/ak6zRwMPH6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 
-## Requirements
-[Python3 Or Above](https://www.python.org/downloads/)
+## Requisitos
+[Python3 ou Superior](https://www.python.org/downloads/)
 
-No need to install git in linux or termux
+Não há necessidade de instalar git no linux ou termux
 
 [Download GIT](https://git-scm.com/downloads)
 
-# Usage 
+# Como usar
 
 
-### INSTALLATION [Termux] (Not working for android right now) 
+### INSTALAÇÃO [Termux] (Não está funcionando para Android no momento)
 
 * `apt update`
 * `apt upgrade`
 * `pkg install python`
 * `pkg install python3`
 * `pkg install git`
-* `git clone https://github.com/TeamDarkAnon/InstaReport`
+* `git clone https://github.com/Kingz4da/Instagram-Reporter`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `chmod +x *`
 * `bash setup.sh` OR `python ReportBot.py`
 
-### INSTALLATION [Windows]
+### INSTALAÇÃO [Windows]
 [Download python](https://www.python.org/downloads/) and [git](https://git-scm.com/downloads)
 
-* `git clone https://github.com/TeamDarkAnon/InstaReport`
+* `git clone https://github.com/Kingz4da/Instagram-Reporter`
 * `cd instareport`
 * `pip install -r requirements.txt`
 * `python ReportBot.py`
 * 
-[ - ] If You Don't want to install git then download this tool zip manually
+[ - ] Se você não deseja instalar o git, baixe este zip de ferramenta manualmente
 
-### INSTALLATION [Kali Linux]
+### INSTALAÇÃO [Kali Linux]
 
 * `sudo apt install python`
 * `sudo apt install python3`
 * `sudo apt install git`
-* `git clone https://github.com/TeamDarkAnon/InstaReport`
+* `git clone https://github.com/Kingz4da/Instagram-Reporter`
 * `cd instareport`
 * `pip3 install -r requirements.txt`
 * `chmod +x *`
 * `sudo bash setup.sh`
 
-## Stats
-<a href="https://github.com/TeamDarkAnon/InstaReport"><img src="https://github-readme-stats.vercel.app/api?username=crevils&theme=blue-green"></a>
+## Status
+<a href="https://github.com/Kingz4da">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Kingz4da&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+
+<br><br>
 
 <p align="left">
   <a href="">
@@ -76,10 +80,9 @@ No need to install git in linux or termux
   </a>
 </p>
 
-```Help us to keep this project alive and maintained by donating. Thanks```
 
-
-## Warning:
+## Aviso:
+#### Esta ferramenta é apenas para fins educacionais. Se você usar esta ferramenta para outros fins, exceto educação, não seremos responsáveis, nesses casos.
 #### This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases
 
-<a href="https://t.me/TeamDarkAnon"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://discord.gg/ak6zRwMPH6" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
